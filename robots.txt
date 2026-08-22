@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Alex-Van-19537.github.io/resources-1hewfg/sitemap.xml
